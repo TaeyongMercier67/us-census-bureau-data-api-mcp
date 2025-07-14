@@ -8,3 +8,4 @@
 - fix: link the usage section
 - chore: link the usage section
 - chore: add a note about the defaults
+- fix: clarify the setup steps
